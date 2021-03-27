@@ -1,3 +1,12 @@
+###Link to CloudFront website:
+https://dulzlsw6a3gss.cloudfront.net/
+
+
+###Link to S3 website:
+http://seis-nodejs.s3-website-eu-west-1.amazonaws.com/
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
